@@ -2,6 +2,4 @@
 
 A repo for a random password genertor for my accounts at ELMA 
 
-WOOHOO
-
-## Elma.com!
+This is from the youtube video Freecodecamp Python projectgit 
